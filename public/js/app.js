@@ -1,7 +1,3 @@
-console.log("Client side javascript file is loaded!");
-
-//api.weatherstack.com/current?access_key=6e67aa869a76184b03e4fc44f5e4f486&query=
-
 const weatherForm = document.querySelector("form");
 const search = document.querySelector("input");
 const messageOne = document.querySelector("#message-1");
